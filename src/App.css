@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+    :root {
+      --color-softPink: #815050;
+      --color-peach: #ffd1dc;
+      --color-white: #ffffff;
+    }
+  }

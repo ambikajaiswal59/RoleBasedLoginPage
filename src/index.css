@@ -1,0 +1,2 @@
+@import "tailwindcss"; /* ✅ This imports everything needed */
+@import "./app.css"; /* ✅ Custom styles */
